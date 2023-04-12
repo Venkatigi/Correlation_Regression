@@ -7,7 +7,7 @@ To analyse given data using coeffificient of correlation and regression line
 
 # Software required :  
 
-Python
+Python - Jupyter Notebook
 
 # Theory:
 
@@ -65,7 +65,7 @@ plt.legend(['Regression Line','Data points'])
 ```
 
 
-# Results and Output : 
+# Output : 
 ![](ex4.jpg)
-
+# Results :
 Thus we have analysed the given data using coeffificient of correlation and regression line successfully
